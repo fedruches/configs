@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 4.15.2, 2021-10-29T18:02:44. -->
+<qtcreator>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAYAAABuAC8AdQBzAHIALwBpAG4AYwBsAHUAZABlAC8AeAA4ADYAXwA2ADQALQBsAGkAbgB1AHgALQBnAG4AdQAvAGMAKwArAC8AOQAvAGIAaQB0AHMALwBnAHQAaAByAC0AZABlAGYAYQB1AGwAdAAuAGgAAAAMAAAAACAAAAACAAACpAAAAAAAAALBAAAAEgAAAAAAAAKkAAACxgAAAHQALwBoAG8AbQBlAC8AdQBzAGUAcgAvAHIAdgAyADEALQBzAG8AdQByAGMAZQBzAC8AcABzAC0AcABvAC8AUAByAG8AYwBlAHMAcwBvAHIALwBQAHIAbwBjAGUAcwBzAG8AcgBMAG8AZwBpAGMALgBoAHAAcAAAAAwAAAAAIAAAAAIAAABZAAAAAAAAAGkAAAAHAAAAAAAAAFkAAACIAAAAagAvAGgAbwBtAGUALwB1AHMAZQByAC8AcgB2ADIAMQAtAHMAbwB1AHIAYwBlAHMALwBwAHMALQBwAG8ALwBQAHIAbwBjAGUAcwBzAG8AcgAvAFAAcgBvAGMAZQBzAHMAbwByAC4AYwBwAHAAAAAMAAAAACAAAAACAAAALwAAAAAAAABVAAAAAgAAAAAAAAAvAAAAVAAAAH4ALwBoAG8AbQBlAC8AdQBzAGUAcgAvAHIAdgAyADEALQBzAG8AdQByAGMAZQBzAC8AcABzAC0AcABvAC8ATQBvAGQAdQBsAGUAcwAvAEQAYQB0AGEAQwBvAG4AbgBlAGMAdABpAG8AbgBIAGEAbgBkAGwAZQByAC4AaABwAHAAAAAMAAAAACAAAAACAAACVwAAAAAAAAJ3AAAACwAAAAAAAAJXAAAChgAAAHAALwBoAG8AbQBlAC8AdQBzAGUAcgAvAHIAdgAyADEALQBzAG8AdQByAGMAZQBzAC8AcABzAC0AcABvAC8ASwBhAGYAawBhAEwAaQBiAC8ASwBhAGYAawBhAFcAYQB0AGMAaABkAG8AZwAuAGMAcABwAAAADAAAAAAgAAAAAgAAADoAAAAAAAAAUgAAABUAAAAAAAAAOgAAAGoAAAB6AC8AaABvAG0AZQAvAHUAcwBlAHIALwByAHYAMgAxAC0AcwBvAHUAcgBjAGUAcwAvAHAAcwAtAHAAbwAvAEsAYQBmAGsAYQBMAGkAYgAvAEsAYQBmAGsAYQBNAGEAaQBuAEwAbwBnAFIAZQBhAGQAZQByAC4AaABwAHAAAAAMAAAAACAAAAACAAAAkAAAAAAAAAA/AAAAIQAAAAAAAACQAAAAvwAAAAUAAAB+AC8AaABvAG0AZQAvAHUAcwBlAHIALwByAHYAMgAxAC0AcwBvAHUAcgBjAGUAcwAvAHAAcwAtAHAAbwAvAE0AbwBkAHUAbABlAHMALwBEAGEAdABhAEMAbwBuAG4AZQBjAHQAaQBvAG4ASABhAG4AZABsAGUAcgAuAGgAcABwAAAAMgBEAGEAdABhAEMAbwBuAG4AZQBjAHQAaQBvAG4ASABhAG4AZABsAGUAcgAuAGgAcABwAAAAE0NwcEVkaXRvci5DKytFZGl0b3IAAAAAegAvAGgAbwBtAGUALwB1AHMAZQByAC8AcgB2ADIAMQAtAHMAbwB1AHIAYwBlAHMALwBwAHMALQBwAG8ALwBLAGEAZgBrAGEATABpAGIALwBLAGEAZgBrAGEATQBhAGkAbgBMAG8AZwBSAGUAYQBkAGUAcgAuAGgAcABwAAAALABLAGEAZgBrAGEATQBhAGkAbgBMAG8AZwBSAGUAYQBkAGUAcgAuAGgAcABwAAAAE0NwcEVkaXRvci5DKytFZGl0b3IAAAAAcAAvAGgAbwBtAGUALwB1AHMAZQByAC8AcgB2ADIAMQAtAHMAbwB1AHIAYwBlAHMALwBwAHMALQBwAG8ALwBLAGEAZgBrAGEATABpAGIALwBLAGEAZgBrAGEAVwBhAHQAYwBoAGQAbwBnAC4AYwBwAHAAAAAiAEsAYQBmAGsAYQBXAGEAdABjAGgAZABvAGcALgBjAHAAcAAAABNDcHBFZGl0b3IuQysrRWRpdG9yAAAAAGoALwBoAG8AbQBlAC8AdQBzAGUAcgAvAHIAdgAyADEALQBzAG8AdQByAGMAZQBzAC8AcABzAC0AcABvAC8AUAByAG8AYwBlAHMAcwBvAHIALwBQAHIAbwBjAGUAcwBzAG8AcgAuAGMAcABwAAAAGgBQAHIAbwBjAGUAcwBzAG8AcgAuAGMAcABwAAAAE0NwcEVkaXRvci5DKytFZGl0b3IAAAAAdAAvAGgAbwBtAGUALwB1AHMAZQByAC8AcgB2ADIAMQAtAHMAbwB1AHIAYwBlAHMALwBwAHMALQBwAG8ALwBQAHIAbwBjAGUAcwBzAG8AcgAvAFAAcgBvAGMAZQBzAHMAbwByAEwAbwBnAGkAYwAuAGgAcABwAAAAJABQAHIAbwBjAGUAcwBzAG8AcgBMAG8AZwBpAGMALgBoAHAAcAAAABNDcHBFZGl0b3IuQysrRWRpdG9yAAAAANcAAAANY3VycmVudGVkaXRvcgAAAHQALwBoAG8AbQBlAC8AdQBzAGUAcgAvAHIAdgAyADEALQBzAG8AdQByAGMAZQBzAC8AcABzAC0AcABvAC8AUAByAG8AYwBlAHMAcwBvAHIALwBQAHIAbwBjAGUAcwBzAG8AcgBMAG8AZwBpAGMALgBoAHAAcAAAACYAQwBwAHAARQBkAGkAdABvAHIALgBDACsAKwBFAGQAaQB0AG8AcgAAACAAAAACAAAAWQAAAAAAAABpAAAABwAAAAAAAABZAAAAiAAAAAA=</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">/home/user/rv21-sources/ps-po/CMakeLists.txt</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/home/user/rv21-sources/ps-po/CMakeLists.txt</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList">
+   <valuemap type="QVariantMap">
+    <value type="QString" key="filename">/home/user/rv21-sources/ps-po/Processor/ProcessorLogic.hpp</value>
+    <value type="int" key="linenumber">245</value>
+   </valuemap>
+   <valuemap type="QVariantMap">
+    <value type="QString" key="filename">/home/user/rv21-sources/ps-po/Processor/ProcessorLogic.hpp</value>
+    <value type="int" key="linenumber">240</value>
+   </valuemap>
+   <valuemap type="QVariantMap">
+    <value type="QString" key="filename">/home/user/rv21-sources/ps-po/Processor/ProcessorLogic.hpp</value>
+    <value type="int" key="linenumber">125</value>
+   </valuemap>
+   <valuemap type="QVariantMap">
+    <value type="QString" key="filename">/home/user/rv21-sources/ps-po/Processor/ProcessorLogic.hpp</value>
+    <value type="int" key="linenumber">239</value>
+   </valuemap>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-DebuggerSeparateWidgetGeometry</variable>
+  <value type="QRect">400x400+0+0</value>
+ </data>
+ <data>
+  <variable>value-DefaultFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-IndividualFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-PanelSplitterState:/home/user/repos/SimpleChat/CMakeLists.txt:Build</variable>
+  <value type="QByteArray">000000ff0000000100000002000003710000fa000000000001010000000100</value>
+ </data>
+ <data>
+  <variable>value-PanelSplitterState:/home/user/repos/SimpleChat/CMakeLists.txt:Run</variable>
+  <value type="QByteArray">000000ff0000000100000002000003100000fa000000000001010000000100</value>
+ </data>
+ <data>
+  <variable>value-PanelSplitterState:/home/user/rv21-sources/ps-po/CMakeLists.txt:Build</variable>
+  <value type="QByteArray">000000ff0000000100000002000003710000fa000000000001010000000100</value>
+ </data>
+ <data>
+  <variable>value-PanelSplitterState:/home/user/rv21-sources/ps-po/CMakeLists.txt:Run</variable>
+  <value type="QByteArray">000000ff0000000100000002000003510000fa000000000001010000000100</value>
+ </data>
+ <data>
+  <variable>value-PanelSplitterState:/home/user/rv21-sources/ps-po/Proto/CMakeLists.txt:Build</variable>
+  <value type="QByteArray">000000ff0000000100000002000003710000fa000000000001010000000100</value>
+ </data>
+ <data>
+  <variable>value-PanelSplitterState:/home/user/rv21-sources/ps-po/imit-g10ht/CMakeLists.txt:Build</variable>
+  <value type="QByteArray">000000ff0000000100000002000003710000fa000000000001010000000100</value>
+ </data>
+ <data>
+  <variable>value-PanelSplitterState:/home/user/rv21-sources/ps-po/imit-g10ht/CMakeLists.txt:Run</variable>
+  <value type="QByteArray">000000ff0000000100000002000003940000fa000000000001010000000100</value>
+ </data>
+ <data>
+  <variable>value-PanelSplitterState:/home/user/rv21-sources/ps-po/imit-g10ht/sormtest/CMakeLists.txt:Build</variable>
+  <value type="QByteArray">000000ff0000000100000002000003710000fa000000000001010000000100</value>
+ </data>
+ <data>
+  <variable>value-PanelSplitterState:/home/user/rv21-sources/ps-po/imit-g10ht/sormtest/CMakeLists.txt:Run</variable>
+  <value type="QByteArray">000000ff0000000100000002000003940000fa000000000001010000000100</value>
+ </data>
+ <data>
+  <variable>value-PanelSplitterState:/home/user/sormtest/rv21-sources/ps-po/imit-g10ht/CMakeLists.txt:Build</variable>
+  <value type="QByteArray">000000ff0000000100000002000003710000fa000000000001010000000100</value>
+ </data>
+ <data>
+  <variable>value-PanelSplitterState:/home/user/sormtest/rv21-sources/ps-po/imit-g10ht/CMakeLists.txt:Run</variable>
+  <value type="QByteArray">000000ff0000000100000002000003d80000fa000000000001010000000100</value>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList">
+   <valuelist type="QVariantList">
+    <value type="QString">/home/user/rv21-sources/ps-po</value>
+    <value type="QString">PS_PO [zookeeper]</value>
+   </valuelist>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.Categories</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">AssetExporter.Export</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.IncludeWarnings</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>value-Watchers</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">DebuggerSeparateWidgetGeometry</value>
+   <value type="QString">DefaultFormats</value>
+   <value type="QString">IndividualFormats</value>
+   <value type="QString">PanelSplitterState:/home/user/repos/SimpleChat/CMakeLists.txt:Build</value>
+   <value type="QString">PanelSplitterState:/home/user/repos/SimpleChat/CMakeLists.txt:Run</value>
+   <value type="QString">PanelSplitterState:/home/user/rv21-sources/ps-po/CMakeLists.txt:Build</value>
+   <value type="QString">PanelSplitterState:/home/user/rv21-sources/ps-po/CMakeLists.txt:Run</value>
+   <value type="QString">PanelSplitterState:/home/user/rv21-sources/ps-po/Proto/CMakeLists.txt:Build</value>
+   <value type="QString">PanelSplitterState:/home/user/rv21-sources/ps-po/imit-g10ht/CMakeLists.txt:Build</value>
+   <value type="QString">PanelSplitterState:/home/user/rv21-sources/ps-po/imit-g10ht/CMakeLists.txt:Run</value>
+   <value type="QString">PanelSplitterState:/home/user/rv21-sources/ps-po/imit-g10ht/sormtest/CMakeLists.txt:Build</value>
+   <value type="QString">PanelSplitterState:/home/user/rv21-sources/ps-po/imit-g10ht/sormtest/CMakeLists.txt:Run</value>
+   <value type="QString">PanelSplitterState:/home/user/sormtest/rv21-sources/ps-po/imit-g10ht/CMakeLists.txt:Build</value>
+   <value type="QString">PanelSplitterState:/home/user/sormtest/rv21-sources/ps-po/imit-g10ht/CMakeLists.txt:Run</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">TaskWindow.Categories</value>
+   <value type="QString">TaskWindow.IncludeWarnings</value>
+   <value type="QString">Watchers</value>
+  </valuelist>
+ </data>
+</qtcreator>

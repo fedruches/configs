@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info>
+    <mime-type type="text/x-c++hdr" pattern="*.h;*.hh;*.hxx;*.h++;*.hp;*.H;*.inl;*.tcc;*.tpp;*.t++;*.txx">
+        <match value="#ifndef " type="string" offset="0:2000" priority="50" mask=""/>
+        <match value="#if " type="string" offset="0:2000" priority="50" mask=""/>
+        <match value="#include " type="string" offset="0:2000" priority="50" mask=""/>
+    </mime-type>
+    <mime-type type="text/x-c++src" pattern="*.cpp;*.cxx;*.cc;*.C;*.c++;*.cp;*.hpp">
+        <match value="-*- C++ -*-" type="string" offset="0:30" priority="30" mask=""/>
+    </mime-type>
+</mime-info>
